@@ -2,7 +2,7 @@ import React from 'react';
 
 function Main(){
     return (
-        <p>This is a test</p>
+        <p>This is where the main content will go</p>
     )
 }
 
